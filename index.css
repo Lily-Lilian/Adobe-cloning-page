@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+
+@font-face {
+    font-family: "adobe-clean";
+    src: url("./Assests/font/AdobeCleanRegular.otf");
+}
